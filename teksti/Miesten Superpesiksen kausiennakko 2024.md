@@ -50,7 +50,7 @@ Alemman ryhmän toisessa kastissa ovat Jymyjussit, AA ja HP. Tarkoituksena on v�
 
 Pelinjohtoon tuli muutoksia, kun Mikko Kuosmanen palasi haalarihommista takaisin toimitusjohtajan paikalle. Saku Komulainen siirtyi pois valmennusryhmästä keskittyen Vuokatti-Ruka Urheiluakatemian pesäpallon valmennukseen. Jussi Haapakoski lähti Pesäkarhuihin, kun on lähempänä perhettä. Antti Hartikainen hyppää valmentajasta kakkospelinjohtajan paikkaan. Ykköspelinjohtajaksi tuli Iiro Haimi ja toi mukaansa valmennukseen Jere Pelkosen, joka palaa Sotkamoon Kpl-vuosien jälkeen. Jos aikoinaan Claudio Ranieri sai brittitoimittajilta lempinimen Tinkerman (oma suomennos virittelijä), samaa voi sanoa Haimista. Eli Haimi on sortunut kokoonpanoon virittelyyn kuin mopopoika, jonka virittelystä ei saada koskaan valmista tai toimivaa. Jymyssä ei voi käydä, sillä rinki supistettiin keväällä 13 pelaajaan.
 
-Lähtijöitä olivat Niko Korhonen ja Niilo Piiponniemi, jonka urasta ei ole tullut mitään tietoa. Niko Korhosen lähtö kirpaisee, sillä nyt ei ole varmaa, kuka ottaa numeron 3 ja kakkostilanteen hoidettavaksi. 
+Lähtijöitä olivat Niko Korhonen ja Niilo Piiponniemi, jonka urasta ei ole tullut mitään tietoa. Niko Korhosen lähtö kirpaisee, sillä nyt ei ole varmaa, kuka ottaa numeron 3 ja kakkostilanteen hoidettavaksi.
 
 Tulijoita olivat Juuso Lattu ja lainalta palasi Jere Heikkinen. Sen lisäksi nostivat paljon junioreita rinkiin, jotka pelaavat Simon Kirissä lainalla. Lattu on kuvaava hyvin Jymyn viimevuotisten hankintojen profiilia. Hankitaan pelaajia, jotka eivät olleet pelanneet potentiaalinsa mukaan, mutta on ollut hyviä kausia. Vähän kuin Moneyball otetta on hankinnoissa.
 
@@ -95,6 +95,7 @@ Haimi on tunnettu aggressiivisena pelinjohtajana, kun ottaa yllättävissä paik
 Viime vuosi näytti, vaikka sisäpelissä oli vaikeuksia, pystyvät voittamaan mestaruuksia ulkopelin ansiosta. Jos saavat parannettua sisäpeliä, ovat todella hankala joukkue voittaa.
 
 Tilastoja:
+
 - Ekan jakson tehdyt juoksut: 3.57
 - Toisen jakson tehdyt juoksut: 4.32
 
@@ -109,6 +110,7 @@ Linja on todella pallovarma. Kuosmanen, Kotro ja Vikströmillä ei ole puutteita
 Kopparit ovat sarjan parhaimpia ja saavat hurjasti kilpailuetua. Tavallisella tappikumuralla ei tahdo ehtiä, jonka toivottavasti vastustajat ovat tajunneet. Vapaat pitää lyödä ihan jatkeille tai taakse keskelle. Välttelisin tappikumuran lyöntiä, vaikka hyvillä ja kaukana olevilla tappilähdöillä voisi ehtiä. Mieluummin yritetään saada paikkoihin, joista eivät pääse polttamaan. Mahdollistaa linjan pelaamista todella paljon.
 
 Tilastoja:
+
 - Ekan jakson päästetyt: 1.82
 - Toisen jakson päästetyt: 1.96
 
